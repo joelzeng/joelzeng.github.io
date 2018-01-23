@@ -17,6 +17,8 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "gh-pages": "^1.1.0"
+    "gh-pages": "^1.1.0",
+    "react-parallax": "^1.6.0",
+    "react-particles-js": "^2.1.0"
   }
 }

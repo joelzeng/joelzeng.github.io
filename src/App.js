@@ -1,19 +1,25 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Parallax } from 'react-parallax';
+import Particles from 'react-particles-js';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+      <section className='development'>
+        <header className='development-content'>
+          <img src={logo} className='development-content-logo' alt='logo' />
+          <h1 className='development-content-text'>Under development.</h1>
+          <h3 className='development-content-text'>Come back later.</h3>
         </header>
-        <p className="App-intro">
-          Testing Code<code>src/App.js</code> and save to reload.
-        </p>
-      </div>
+        <Particles params={{
+          particles: {
+            number: {value: 200},
+            line_linked: {enable: false}
+          }
+        }} />
+      </section>
     );
   }
 }
