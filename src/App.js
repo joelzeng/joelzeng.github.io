@@ -11,7 +11,7 @@ class App extends Component {
         <header className='development-content'>
           <img src={logo} className='development-content-logo' alt='logo' />
           <h1 className='development-content-text'>Under development.</h1>
-          <h3 className='development-content-text'>Come back later.</h3>
+          <h3 className='development-content-text'>Moving from Static Html to React js, Come back later.</h3>
         </header>
         <Particles params={{
           particles: {
