@@ -10,7 +10,7 @@
     text-align: center;
 
     width: 500px;
-    border: 1px solid black;
+    border: 1px solid white;
     overflow: a; /* add this to contain floated children */
 }
 
