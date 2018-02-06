@@ -11,7 +11,7 @@
 
     width: 500px;
     border: 1px solid black;
-    overflow: auto; /* add this to contain floated children */
+    overflow: a; /* add this to contain floated children */
 }
 
 .links1 {
