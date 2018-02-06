@@ -1,0 +1,83 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+body {
+  background-color: black;
+  overflow-x: hidden;
+  font-family: 'Lato', sans-serif;
+}
+
+.development {
+  background: url('../assets/images/developmentBackground.jpg') no-repeat center center;
+  background-size: cover;
+  height: 100vh;
+  position: relative;
+}
+
+.development::before {
+  background: linear-gradient(to bottom, transparent, black);
+  content: " ";
+  height: 100%;
+  position: absolute;
+  width: 100%;
+}
+
+.development-content {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.development-content-logo {
+  animation: splash-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+h1.development-content-text {
+  color: white;
+  font-weight: 200;
+}
+
+h3.development-content-text {
+  color: grey;
+  font-weight: 100;
+}
+
+@keyframes development-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
+ResumeDownload {
+  align-items: center;
+}

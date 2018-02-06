@@ -1,0 +1,17 @@
+a, u{
+  text-decoration: none;
+  color: white;
+}
+
+
+.download-background {
+	background-image: linear-gradient(to bottom, #41414D, #3B3B47);
+	box-shadow: 0 1px 1px #33333D;
+}
+
+
+.download-background:active {
+  background: none;
+  background-image: linear-gradient(to right, #363642, #3B3B47);
+	box-shadow: inset 1px 0 1px #33333D;
+}
