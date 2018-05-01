@@ -1,9 +1,21 @@
 {
-  "main.css": "static/css/main.d93e2825.css",
-  "main.css.map": "static/css/main.d93e2825.css.map",
-  "main.js": "static/js/main.f7831da9.js",
-  "main.js.map": "static/js/main.f7831da9.js.map",
-  "static/media/developmentBackground.jpg": "static/media/developmentBackground.2bfcd7d9.jpg",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
-  "static/media/simpleprofile-white.png": "static/media/simpleprofile-white.56e70ccf.png"
+  "main.css": "static/css/main.a6158a8e.css",
+  "main.css.map": "static/css/main.a6158a8e.css.map",
+  "main.js": "static/js/main.2fa7c958.js",
+  "main.js.map": "static/js/main.2fa7c958.js.map",
+  "static/media/adobeindesign.svg": "static/media/adobeindesign.cf9f70e4.svg",
+  "static/media/adobelightroom.svg": "static/media/adobelightroom.e4141904.svg",
+  "static/media/adobephotoshop.svg": "static/media/adobephotoshop.23148af3.svg",
+  "static/media/codecademy.svg": "static/media/codecademy.1fec8b79.svg",
+  "static/media/dimsum.svg": "static/media/dimsum.fa9dd077.svg",
+  "static/media/facebook.svg": "static/media/facebook.74f5a502.svg",
+  "static/media/github.svg": "static/media/github.ea8bb7f4.svg",
+  "static/media/javascript.svg": "static/media/javascript.9a073369.svg",
+  "static/media/linkedin.svg": "static/media/linkedin.bc8e55bb.svg",
+  "static/media/minutemailer.svg": "static/media/minutemailer.f9d10bfa.svg",
+  "static/media/photo.jpg": "static/media/photo.2c6e948a.jpg",
+  "static/media/python.svg": "static/media/python.86b8f5fd.svg",
+  "static/media/taco.svg": "static/media/taco.f6185817.svg",
+  "static/media/tea.svg": "static/media/tea.3e62ac3e.svg",
+  "static/media/uwaterloo.jpg": "static/media/uwaterloo.0d9e859b.jpg"
 }
