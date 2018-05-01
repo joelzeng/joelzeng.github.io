@@ -33,7 +33,7 @@ function Skills(props) {
     pointerEvents:'none',
 
     position: 'fixed',
-    right: '18%',
+    right: '10%',
     top: '15%',
     padding: '0',
     fontSize: '25px',
@@ -119,7 +119,7 @@ function Experience(props) {
     pointerEvents:'none',
 
     position: 'fixed',
-    right: '19%',
+    right: '10%',
     top: '25%',
     padding: '0',
     fontSize: '25px',
@@ -168,7 +168,7 @@ function Project(props) {
     pointerEvents:'none',
 
     position: 'fixed',
-    right: '19.5%',
+    right: '11.5%',
     top: '35%',
     padding: '0',
     // fontSize: '25px',
@@ -218,7 +218,7 @@ function Me(props) {
     pointerEvents:'none',
 
     position: 'fixed',
-    right: '20%',
+    right: '10%',
     top: '19%',
     padding: '0',
     fontSize: '25px',
@@ -383,7 +383,7 @@ onMouseLeave() {
 
         padding :'10px',
         top: '220px',
-        right: '20%',
+        right: '12%',
         position: 'fixed',
 
         fontSize: '65px',
