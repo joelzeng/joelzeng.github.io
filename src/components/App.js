@@ -20,3 +20,5 @@ class App extends Component {
 
 
 export default App;
+
+//npm run deploy to add it to github
