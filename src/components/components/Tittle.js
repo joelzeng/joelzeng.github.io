@@ -1,6 +1,6 @@
 import React, { Component }  from 'react';
 import Typing from 'react-typing-animation';
-import ReactRevealText from 'react-reveal-text';
+// import ReactRevealText from 'react-reveal-text';
 import Fade from 'react-reveal/Fade';
 
 import '../css/Tittle.css';

@@ -1,6 +1,4 @@
 import React, { Component }  from 'react';
-import Typing from 'react-typing-animation';
-import ReactRevealText from 'react-reveal-text';
 
 import Fade from 'react-reveal/Fade';
 
@@ -41,12 +39,12 @@ function Skills(props) {
     fontFamily: 'Verdana'
   }
 
-  const boldStyle = {
-    fontSize: '25px',
-    textAlign: 'center',
-    fontFamily: 'Verdana',
-    fontWeight: '500'
-  }
+  // const boldStyle = {
+  //   fontSize: '25px',
+  //   textAlign: 'center',
+  //   fontFamily: 'Verdana',
+  //   fontWeight: '500'
+  // }
 
 
   return (
@@ -74,15 +72,15 @@ function Skills(props) {
         <p><b> Design </b></p>
         <div className='designBlock'>
           <div className="img-with-text">
-            <img src={Adobe1Img} alt="Photo" height={iconSize} width={iconSize}></img>
+            <img src={Adobe1Img} alt="Photoshop" height={iconSize} width={iconSize}></img>
             <p align="center">Photoshop</p>
           </div>
           <div className="img-with-text">
-            <img src={Adobe2Img} alt="Light" height={iconSize} width={iconSize}></img>
+            <img src={Adobe2Img} alt="LightRoom" height={iconSize} width={iconSize}></img>
             <p align="center">LightRoom</p>
           </div>
           <div className="img-with-text">
-            <img src={Adobe2Img} alt="Light" height={iconSize} width={iconSize}></img>
+            <img src={Adobe3Img} alt="Indesign" height={iconSize} width={iconSize}></img>
             <p align="center">InDesign</p>
           </div>
         </div>
@@ -90,15 +88,15 @@ function Skills(props) {
         <p><b> Languages </b></p>
         <div className='languageBlock'>
           <div className="img-with-text">
-            <img src={TacoImg} alt="Photo" height={iconSize} width={iconSize}></img>
+            <img src={TacoImg} alt="Spanish" height={iconSize} width={iconSize}></img>
             <p align="center">Spanish</p>
           </div>
           <div className="img-with-text">
-            <img src={TeaImg} alt="Light" height={iconSize} width={iconSize}></img>
+            <img src={TeaImg} alt="English" height={iconSize} width={iconSize}></img>
             <p align="center">English</p>
           </div>
           <div className="img-with-text">
-            <img src={DimsumImg} alt="Light" height={iconSize} width={iconSize}></img>
+            <img src={DimsumImg} alt="Chinese" height={iconSize} width={iconSize}></img>
             <p align="center">Chinese</p>
           </div>
         </div>
@@ -127,12 +125,12 @@ function Experience(props) {
     fontFamily: 'Verdana'
   }
 
-  const boldStyle = {
-    fontSize: '25px',
-    textAlign: 'center',
-    fontFamily: 'Verdana',
-    fontWeight: '500'
-  }
+  // const boldStyle = {
+  //   fontSize: '25px',
+  //   textAlign: 'center',
+  //   fontFamily: 'Verdana',
+  //   fontWeight: '500'
+  // }
 
 
   return (
@@ -160,7 +158,7 @@ function Experience(props) {
 function Project(props) {
   var { showit } = props;
 
-  const iconSize = 70;
+  // const iconSize = 70;
 
   const style = {
     borderWidth: '0px',
@@ -210,7 +208,7 @@ function Project(props) {
 function Me(props) {
   var { showit } = props;
 
-  const iconSize = 70;
+  // const iconSize = 70;
 
   const style = {
     borderWidth: '0px',
@@ -226,12 +224,12 @@ function Me(props) {
     fontFamily: 'Verdana'
   }
 
-  const boldStyle = {
-    fontSize: '25px',
-    textAlign: 'center',
-    fontFamily: 'Verdana',
-    fontWeight: '500'
-  }
+  // const boldStyle = {
+  //   fontSize: '25px',
+  //   textAlign: 'center',
+  //   fontFamily: 'Verdana',
+  //   fontWeight: '500'
+  // }
 
   return (
     <div style={style}>
