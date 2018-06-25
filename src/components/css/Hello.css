@@ -1,0 +1,13 @@
+.main-background {
+  background-color:black;
+  height: 600px;
+
+
+}
+
+.hello-text {
+  text-align: center;
+  font-size: 50px;
+  font-family: helvetica;
+  color: white;
+}
